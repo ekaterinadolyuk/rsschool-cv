@@ -29,3 +29,10 @@
 - Trello.
   
 ******
+### Code
+
+```js
+function numberToString(num) {
+  return String(num);
+}
+```
