@@ -46,3 +46,13 @@ function numberToString(num) {
 - May 2018 - November 2021 - Transport Manager.
   
 ******
+
+### Education
+
+ 1. Minsk State Linguistic University (2015-2018)
+     - Intercultural communications
+ 2. IT-Step (2016)
+     - Manual testing
+ 3. The Rolling Scopes Stage#1 (2023)
+
+******
