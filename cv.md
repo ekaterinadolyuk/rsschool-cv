@@ -56,3 +56,10 @@ function numberToString(num) {
  3. The Rolling Scopes Stage#1 (2023)
 
 ******
+
+### Languages
+
+- English (B2)
+- Polish (B2)
+- Russian (Native)
+- Spanish (B1)
