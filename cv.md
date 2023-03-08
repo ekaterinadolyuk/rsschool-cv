@@ -41,7 +41,7 @@ function numberToString(num) {
 
 ### Experience
 
-- September 2022 - Present - Junior Digital Operational Specialist in Technest.
-- May 2018 - November 2021 - Transport Manager in Codognotto.
+- September 2022 - Present - Junior Digital Operational Specialist.
+- May 2018 - November 2021 - Transport Manager.
   
 ******
